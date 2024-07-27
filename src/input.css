@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Amsterdam";
+    src: url(../Fonts/Amsterdam.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Holtwood";
+    src: url(../Fonts/HoltwoodOneSC-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Crimson";
+    src: url(../Fonts/CrimsonText-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../Fonts/Montserrat-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family:"MontserratRegular";
+    src: url(../Fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Playfair";
+    src: url(../Fonts/PlayfairDisplay-Bold.ttf) format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
